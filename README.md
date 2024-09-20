@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/narayaalbani" target="blank"><img src="https://img.shields.io/twitter/follow/narayaalbani?logo=twitter&style=for-the-badge" alt="narayaalbani" /></a> </p>
 
-- 🔭 I’m currently working on **Auto Rentals App**
+- 🔭 I’m currently working on ****
 
 - 🌱 I’m currently learning **Kotlin, Python, React**
 
